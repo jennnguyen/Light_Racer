@@ -1,0 +1,35 @@
+
+start new protocol
+
+(2014/12/18/0/10:37 _:_ 121) : -----------------------------------------------------
+(2014/12/18/0/10:37 _:_ 121) : -----------------------------------------------------
+(2014/12/18/0/10:37 _:_ 123) : Start Server
+(2014/12/18/0/10:37 _:_ 123) : Start Server
+(2014/12/18/0/10:38 _:_ 929) : VIEWSERVER NAME:
+(2014/12/18/0/10:38 _:_ 929) : VIEWSERVER NAME:
+(2014/12/18/0/10:38 _:_ 934) : testserver
+(2014/12/18/0/10:38 _:_ 934) : testserver
+(2014/12/18/0/10:38 _:_ 939) :  
+(2014/12/18/0/10:38 _:_ 939) :  
+(2014/12/18/0/10:38 _:_ 945) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/18/0/10:38 _:_ 945) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/18/0/10:38 _:_ 951) : builiding actual content file
+(2014/12/18/0/10:38 _:_ 951) : builiding actual content file
+(2014/12/18/0/10:39 _:_ 62) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/18/0/10:39 _:_ 62) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/18/0/10:39 _:_ 438) : actual content file end build
+(2014/12/18/0/10:39 _:_ 438) : actual content file end build
+(2014/12/18/0/10:40 _:_ 333) : FTP InternetConnect successful ...
+(2014/12/18/0/10:40 _:_ 333) : FTP InternetConnect successful ...
+(2014/12/18/0/10:42 _:_ 362) : building php
+(2014/12/18/0/10:42 _:_ 362) : building php
+(2014/12/18/0/10:42 _:_ 766) : php end build
+(2014/12/18/0/10:42 _:_ 766) : php end build
+(2014/12/18/0/10:42 _:_ 769) : FTP connection and download operations...
+(2014/12/18/0/10:42 _:_ 769) : FTP connection and download operations...
+(2014/12/18/0/10:43 _:_ 625) : FTP InternetConnect successful ...
+(2014/12/18/0/10:43 _:_ 625) : FTP InternetConnect successful ...
+(2014/12/18/0/10:55 _:_ 372) : lösche htdocs\media\NEWS\n_29112014_001
+(2014/12/18/0/10:55 _:_ 372) : lösche htdocs\media\NEWS\n_29112014_001
+(2014/12/18/0/11:22 _:_ 876) : lösche htdocs\media\NEWS\n_29112014_002
+(2014/12/18/0/11:22 _:_ 876) : lösche htdocs\media\NEWS\n_29112014_002

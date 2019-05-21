@@ -1,0 +1,31 @@
+
+start new protocol
+
+(2014/12/16/19/51:38 _:_ 705) : -----------------------------------------------------
+(2014/12/16/19/51:38 _:_ 705) : -----------------------------------------------------
+(2014/12/16/19/51:38 _:_ 706) : Start Server
+(2014/12/16/19/51:38 _:_ 706) : Start Server
+(2014/12/16/19/51:40 _:_ 211) : VIEWSERVER NAME:
+(2014/12/16/19/51:40 _:_ 211) : VIEWSERVER NAME:
+(2014/12/16/19/51:40 _:_ 214) : testserver
+(2014/12/16/19/51:40 _:_ 214) : testserver
+(2014/12/16/19/51:40 _:_ 216) :  
+(2014/12/16/19/51:40 _:_ 216) :  
+(2014/12/16/19/51:40 _:_ 218) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/16/19/51:40 _:_ 218) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/16/19/51:40 _:_ 221) : builiding actual content file
+(2014/12/16/19/51:40 _:_ 221) : builiding actual content file
+(2014/12/16/19/51:40 _:_ 251) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/51:40 _:_ 251) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/51:40 _:_ 254) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/51:40 _:_ 254) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/51:40 _:_ 316) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/51:40 _:_ 316) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/51:40 _:_ 590) : actual content file end build
+(2014/12/16/19/51:40 _:_ 590) : actual content file end build
+(2014/12/16/19/52:13 _:_ 998) : building php
+(2014/12/16/19/52:13 _:_ 998) : building php
+(2014/12/16/19/52:21 _:_ 695) : php end build
+(2014/12/16/19/52:21 _:_ 695) : php end build
+(2014/12/16/19/52:25 _:_ 953) : FTP connection and download operations...
+(2014/12/16/19/52:25 _:_ 953) : FTP connection and download operations...

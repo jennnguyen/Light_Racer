@@ -1,0 +1,89 @@
+
+start new protocol
+
+(2014/12/18/0/13:56 _:_ 693) : -----------------------------------------------------
+(2014/12/18/0/13:56 _:_ 693) : -----------------------------------------------------
+(2014/12/18/0/13:56 _:_ 695) : Start Server
+(2014/12/18/0/13:56 _:_ 695) : Start Server
+(2014/12/18/0/14:0 _:_ 982) : VIEWSERVER NAME:
+(2014/12/18/0/14:0 _:_ 982) : VIEWSERVER NAME:
+(2014/12/18/0/14:0 _:_ 988) : testserver
+(2014/12/18/0/14:0 _:_ 988) : testserver
+(2014/12/18/0/14:0 _:_ 993) :  
+(2014/12/18/0/14:0 _:_ 993) :  
+(2014/12/18/0/14:0 _:_ 999) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/18/0/14:0 _:_ 999) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/18/0/14:1 _:_ 4) : builiding actual content file
+(2014/12/18/0/14:1 _:_ 4) : builiding actual content file
+(2014/12/18/0/14:1 _:_ 114) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/18/0/14:1 _:_ 114) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/18/0/14:1 _:_ 483) : actual content file end build
+(2014/12/18/0/14:1 _:_ 483) : actual content file end build
+(2014/12/18/0/14:2 _:_ 80) : FTP InternetConnect successful ...
+(2014/12/18/0/14:2 _:_ 80) : FTP InternetConnect successful ...
+(2014/12/18/0/14:3 _:_ 468) : building php
+(2014/12/18/0/14:3 _:_ 468) : building php
+(2014/12/18/0/14:4 _:_ 383) : php end build
+(2014/12/18/0/14:4 _:_ 383) : php end build
+(2014/12/18/0/14:4 _:_ 386) : FTP connection and download operations...
+(2014/12/18/0/14:4 _:_ 386) : FTP connection and download operations...
+(2014/12/18/0/14:5 _:_ 264) : FTP InternetConnect successful ...
+(2014/12/18/0/14:5 _:_ 264) : FTP InternetConnect successful ...
+(2014/12/18/0/14:7 _:_ 988) : FTP InternetConnect successful ...
+(2014/12/18/0/14:7 _:_ 988) : FTP InternetConnect successful ...
+(2014/12/18/0/14:11 _:_ 336) : FTP InternetConnect successful ...
+(2014/12/18/0/14:11 _:_ 336) : FTP InternetConnect successful ...
+(2014/12/18/0/14:13 _:_ 85) : File 'n_29112014_001.rar' auf Downloadliste hinzugefuegt
+(2014/12/18/0/14:13 _:_ 85) : File 'n_29112014_001.rar' auf Downloadliste hinzugefuegt
+(2014/12/18/0/14:14 _:_ 622) : File 'n_29112014_002.rar' auf Downloadliste hinzugefuegt
+(2014/12/18/0/14:14 _:_ 622) : File 'n_29112014_002.rar' auf Downloadliste hinzugefuegt
+(2014/12/18/0/14:15 _:_ 670) : FTP InternetConnect successful ...
+(2014/12/18/0/14:15 _:_ 670) : FTP InternetConnect successful ...
+(2014/12/18/0/14:15 _:_ 672) : Downloading: NEWS/n_29112014_001\n_29112014_001.rar
+(2014/12/18/0/14:15 _:_ 672) : Downloading: NEWS/n_29112014_001\n_29112014_001.rar
+(2014/12/18/0/14:18 _:_ 961) : datei 'n_29112014_001.rar' erfolreich nach 3 sekunden runtergeladen
+(2014/12/18/0/14:18 _:_ 961) : datei 'n_29112014_001.rar' erfolreich nach 3 sekunden runtergeladen
+(2014/12/18/0/14:18 _:_ 964) : Downloading: NEWS/n_29112014_002\n_29112014_002.rar
+(2014/12/18/0/14:18 _:_ 964) : Downloading: NEWS/n_29112014_002\n_29112014_002.rar
+(2014/12/18/0/14:22 _:_ 276) : datei 'n_29112014_002.rar' erfolreich nach 3 sekunden runtergeladen
+(2014/12/18/0/14:22 _:_ 276) : datei 'n_29112014_002.rar' erfolreich nach 3 sekunden runtergeladen
+(2014/12/18/0/14:22 _:_ 279) : end half hour loop - - - - - - - - - - - - - - - -
+(2014/12/18/0/14:22 _:_ 279) : end half hour loop - - - - - - - - - - - - - - - -
+(2014/12/18/0/14:33 _:_ 76) : VIEWSERVER NAME:
+(2014/12/18/0/14:33 _:_ 76) : VIEWSERVER NAME:
+(2014/12/18/0/14:33 _:_ 80) : testserver
+(2014/12/18/0/14:33 _:_ 80) : testserver
+(2014/12/18/0/14:33 _:_ 86) :  
+(2014/12/18/0/14:33 _:_ 86) :  
+(2014/12/18/0/14:33 _:_ 91) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/18/0/14:33 _:_ 91) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/18/0/14:33 _:_ 97) : builiding actual content file
+(2014/12/18/0/14:33 _:_ 97) : builiding actual content file
+(2014/12/18/0/14:33 _:_ 148) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/18/0/14:33 _:_ 148) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/18/0/14:33 _:_ 153) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/18/0/14:33 _:_ 153) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/18/0/14:33 _:_ 244) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/18/0/14:33 _:_ 244) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/18/0/14:33 _:_ 611) : actual content file end build
+(2014/12/18/0/14:33 _:_ 611) : actual content file end build
+(2014/12/18/0/14:34 _:_ 887) : FTP InternetConnect successful ...
+(2014/12/18/0/14:34 _:_ 887) : FTP InternetConnect successful ...
+(2014/12/18/0/14:36 _:_ 906) : building php
+(2014/12/18/0/14:36 _:_ 906) : building php
+(2014/12/18/0/14:37 _:_ 693) : php end build
+(2014/12/18/0/14:37 _:_ 693) : php end build
+(2014/12/18/0/14:37 _:_ 701) : FTP connection and download operations...
+(2014/12/18/0/14:37 _:_ 701) : FTP connection and download operations...
+(2014/12/18/0/14:38 _:_ 901) : FTP InternetConnect successful ...
+(2014/12/18/0/14:38 _:_ 901) : FTP InternetConnect successful ...
+(2014/12/18/0/14:43 _:_ 532) : FTP InternetConnect successful ...
+(2014/12/18/0/14:43 _:_ 532) : FTP InternetConnect successful ...
+(2014/12/18/0/14:46 _:_ 758) : FTP InternetConnect successful ...
+(2014/12/18/0/14:46 _:_ 758) : FTP InternetConnect successful ...
+(2014/12/18/0/14:53 _:_ 252) : FTP InternetConnect successful ...
+(2014/12/18/0/14:53 _:_ 252) : FTP InternetConnect successful ...
+(2014/12/18/0/14:53 _:_ 258) : end half hour loop - - - - - - - - - - - - - - - -
+(2014/12/18/0/14:53 _:_ 258) : end half hour loop - - - - - - - - - - - - - - - -
+(2014/12/18/0/14:56 _:_ 921) : turning on wifi hotspot
+(2014/12/18/0/14:56 _:_ 921) : turning on wifi hotspot

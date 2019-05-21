@@ -1,0 +1,14 @@
+﻿Build started 10/30/2016  8:08:55 PM.
+     1>Project "C:\Users\Jennifer\Desktop\Project 2\viewserver\viewserver.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jennifer\Desktop\Project 2\Release\servercontrol.exe" /INCREMENTAL:NO /NOLOGO wininet.lib odbc32.lib odbccp32.lib Comdlg32.lib gdi32.lib kernel32.lib user32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib Vfw32.lib Winmm.lib Strmiids.lib comctl32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Jennifer\Desktop\Project 2\Release\servercontrol.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jennifer\Desktop\Project 2\Release\servercontrol.lib" /MACHINE:X86 /SAFESEH Release\BGround.obj
+         Release\servermain.obj
+         Release\student.obj
+         Generating code
+         Finished generating code
+         viewserver.vcxproj -> C:\Users\Jennifer\Desktop\Project 2\Release\servercontrol.exe
+     1>Done Building Project "C:\Users\Jennifer\Desktop\Project 2\viewserver\viewserver.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.26

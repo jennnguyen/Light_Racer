@@ -1,0 +1,43 @@
+
+start new protocol
+
+(2014/12/16/20/29:51 _:_ 452) : -----------------------------------------------------
+(2014/12/16/20/29:51 _:_ 452) : -----------------------------------------------------
+(2014/12/16/20/29:51 _:_ 453) : Start Server
+(2014/12/16/20/29:51 _:_ 453) : Start Server
+(2014/12/16/20/29:52 _:_ 823) : VIEWSERVER NAME:
+(2014/12/16/20/29:52 _:_ 823) : VIEWSERVER NAME:
+(2014/12/16/20/29:52 _:_ 825) : testserver
+(2014/12/16/20/29:52 _:_ 825) : testserver
+(2014/12/16/20/29:52 _:_ 827) :  
+(2014/12/16/20/29:52 _:_ 827) :  
+(2014/12/16/20/29:52 _:_ 828) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/16/20/29:52 _:_ 828) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/16/20/29:52 _:_ 830) : builiding actual content file
+(2014/12/16/20/29:52 _:_ 830) : builiding actual content file
+(2014/12/16/20/29:52 _:_ 853) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/20/29:52 _:_ 853) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/20/29:52 _:_ 855) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/20/29:52 _:_ 855) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/20/29:52 _:_ 897) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/20/29:52 _:_ 897) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/20/29:53 _:_ 137) : actual content file end build
+(2014/12/16/20/29:53 _:_ 137) : actual content file end build
+(2014/12/16/20/29:53 _:_ 760) : FTP InternetConnect successful ...
+(2014/12/16/20/29:53 _:_ 760) : FTP InternetConnect successful ...
+(2014/12/16/20/29:54 _:_ 360) : building php
+(2014/12/16/20/29:54 _:_ 360) : building php
+(2014/12/16/20/29:54 _:_ 775) : php end build
+(2014/12/16/20/29:54 _:_ 775) : php end build
+(2014/12/16/20/29:54 _:_ 777) : FTP connection and download operations...
+(2014/12/16/20/29:54 _:_ 777) : FTP connection and download operations...
+(2014/12/16/20/29:55 _:_ 260) : FTP InternetConnect successful ...
+(2014/12/16/20/29:55 _:_ 260) : FTP InternetConnect successful ...
+(2014/12/16/20/29:56 _:_ 590) : FTP InternetConnect successful ...
+(2014/12/16/20/29:56 _:_ 590) : FTP InternetConnect successful ...
+(2014/12/16/20/29:57 _:_ 804) : FTP InternetConnect successful ...
+(2014/12/16/20/29:57 _:_ 804) : FTP InternetConnect successful ...
+(2014/12/16/20/29:57 _:_ 811) : end half hour loop - - - - - - - - - - - - - - - -
+(2014/12/16/20/29:57 _:_ 811) : end half hour loop - - - - - - - - - - - - - - - -
+(2014/12/16/20/30:8 _:_ 429) : end of program -> end of protocol *****************************
+(2014/12/16/20/30:8 _:_ 429) : end of program -> end of protocol *****************************

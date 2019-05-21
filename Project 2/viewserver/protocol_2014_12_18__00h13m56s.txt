@@ -1,0 +1,39 @@
+
+start new protocol
+
+(2014/12/18/0/12:42 _:_ 850) : -----------------------------------------------------
+(2014/12/18/0/12:42 _:_ 850) : -----------------------------------------------------
+(2014/12/18/0/12:42 _:_ 851) : Start Server
+(2014/12/18/0/12:42 _:_ 851) : Start Server
+(2014/12/18/0/12:44 _:_ 330) : VIEWSERVER NAME:
+(2014/12/18/0/12:44 _:_ 330) : VIEWSERVER NAME:
+(2014/12/18/0/12:44 _:_ 335) : testserver
+(2014/12/18/0/12:44 _:_ 335) : testserver
+(2014/12/18/0/12:44 _:_ 340) :  
+(2014/12/18/0/12:44 _:_ 340) :  
+(2014/12/18/0/12:44 _:_ 346) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/18/0/12:44 _:_ 346) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/18/0/12:44 _:_ 351) : builiding actual content file
+(2014/12/18/0/12:44 _:_ 351) : builiding actual content file
+(2014/12/18/0/12:44 _:_ 458) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/18/0/12:44 _:_ 458) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/18/0/12:44 _:_ 799) : actual content file end build
+(2014/12/18/0/12:44 _:_ 799) : actual content file end build
+(2014/12/18/0/12:45 _:_ 753) : FTP InternetConnect successful ...
+(2014/12/18/0/12:45 _:_ 753) : FTP InternetConnect successful ...
+(2014/12/18/0/12:47 _:_ 379) : building php
+(2014/12/18/0/12:47 _:_ 379) : building php
+(2014/12/18/0/12:48 _:_ 389) : php end build
+(2014/12/18/0/12:48 _:_ 389) : php end build
+(2014/12/18/0/12:48 _:_ 393) : FTP connection and download operations...
+(2014/12/18/0/12:48 _:_ 393) : FTP connection and download operations...
+(2014/12/18/0/12:49 _:_ 299) : FTP InternetConnect successful ...
+(2014/12/18/0/12:49 _:_ 299) : FTP InternetConnect successful ...
+(2014/12/18/0/12:51 _:_ 975) : FTP InternetConnect successful ...
+(2014/12/18/0/12:51 _:_ 975) : FTP InternetConnect successful ...
+(2014/12/18/0/12:55 _:_ 303) : FTP InternetConnect successful ...
+(2014/12/18/0/12:55 _:_ 303) : FTP InternetConnect successful ...
+(2014/12/18/0/12:55 _:_ 309) : end half hour loop - - - - - - - - - - - - - - - -
+(2014/12/18/0/12:55 _:_ 309) : end half hour loop - - - - - - - - - - - - - - - -
+(2014/12/18/0/13:0 _:_ 661) : end of program -> end of protocol *****************************
+(2014/12/18/0/13:0 _:_ 661) : end of program -> end of protocol *****************************

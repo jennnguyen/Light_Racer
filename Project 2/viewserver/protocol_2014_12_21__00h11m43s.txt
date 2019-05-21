@@ -1,0 +1,43 @@
+
+start new protocol
+
+(2014/12/21/0/8:26 _:_ 648) : -----------------------------------------------------
+(2014/12/21/0/8:26 _:_ 648) : -----------------------------------------------------
+(2014/12/21/0/8:26 _:_ 648) : Start Server
+(2014/12/21/0/8:26 _:_ 648) : Start Server
+(2014/12/21/0/8:26 _:_ 648) : Version: 0.8888
+(2014/12/21/0/8:26 _:_ 648) : Version: 0.8888
+(2014/12/21/0/8:26 _:_ 648) : timer initialized
+(2014/12/21/0/8:26 _:_ 648) : timer initialized
+(2014/12/21/0/8:46 _:_ 642) : begin resetting network adapter
+(2014/12/21/0/8:46 _:_ 642) : begin resetting network adapter
+(2014/12/21/0/8:46 _:_ 827) : resetted network adapter
+(2014/12/21/0/8:46 _:_ 827) : resetted network adapter
+(2014/12/21/0/8:46 _:_ 912) : turning on wifi hotspot
+(2014/12/21/0/8:46 _:_ 912) : turning on wifi hotspot
+(2014/12/21/0/9:6 _:_ 640) : begin resetting network adapter
+(2014/12/21/0/9:6 _:_ 640) : begin resetting network adapter
+(2014/12/21/0/9:6 _:_ 810) : resetted network adapter
+(2014/12/21/0/9:6 _:_ 810) : resetted network adapter
+(2014/12/21/0/9:6 _:_ 895) : turning on wifi hotspot
+(2014/12/21/0/9:6 _:_ 895) : turning on wifi hotspot
+(2014/12/21/0/9:26 _:_ 641) : begin resetting network adapter
+(2014/12/21/0/9:26 _:_ 641) : begin resetting network adapter
+(2014/12/21/0/9:26 _:_ 867) : resetted network adapter
+(2014/12/21/0/9:26 _:_ 867) : resetted network adapter
+(2014/12/21/0/9:26 _:_ 982) : turning on wifi hotspot
+(2014/12/21/0/9:26 _:_ 982) : turning on wifi hotspot
+(2014/12/21/0/9:46 _:_ 649) : begin resetting network adapter
+(2014/12/21/0/9:46 _:_ 649) : begin resetting network adapter
+(2014/12/21/0/9:46 _:_ 832) : resetted network adapter
+(2014/12/21/0/9:46 _:_ 832) : resetted network adapter
+(2014/12/21/0/9:46 _:_ 962) : turning on wifi hotspot
+(2014/12/21/0/9:46 _:_ 962) : turning on wifi hotspot
+(2014/12/21/0/10:6 _:_ 643) : begin resetting network adapter
+(2014/12/21/0/10:6 _:_ 643) : begin resetting network adapter
+(2014/12/21/0/10:6 _:_ 808) : resetted network adapter
+(2014/12/21/0/10:6 _:_ 808) : resetted network adapter
+(2014/12/21/0/10:6 _:_ 893) : turning on wifi hotspot
+(2014/12/21/0/10:6 _:_ 893) : turning on wifi hotspot
+(2014/12/21/0/10:14 _:_ 482) : end of program -> end of protocol *****************************
+(2014/12/21/0/10:14 _:_ 482) : end of program -> end of protocol *****************************

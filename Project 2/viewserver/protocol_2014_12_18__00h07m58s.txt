@@ -1,0 +1,33 @@
+
+start new protocol
+
+(2014/12/18/0/3:58 _:_ 720) : -----------------------------------------------------
+(2014/12/18/0/3:58 _:_ 720) : -----------------------------------------------------
+(2014/12/18/0/3:58 _:_ 726) : Start Server
+(2014/12/18/0/3:58 _:_ 726) : Start Server
+(2014/12/18/0/5:3 _:_ 690) : turning on wifi hotspot
+(2014/12/18/0/5:3 _:_ 690) : turning on wifi hotspot
+(2014/12/18/0/5:6 _:_ 660) : VIEWSERVER NAME:
+(2014/12/18/0/5:6 _:_ 660) : VIEWSERVER NAME:
+(2014/12/18/0/5:6 _:_ 665) : testserver
+(2014/12/18/0/5:6 _:_ 665) : testserver
+(2014/12/18/0/5:6 _:_ 670) :  
+(2014/12/18/0/5:6 _:_ 670) :  
+(2014/12/18/0/5:6 _:_ 676) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/18/0/5:6 _:_ 676) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/18/0/5:6 _:_ 682) : builiding actual content file
+(2014/12/18/0/5:6 _:_ 682) : builiding actual content file
+(2014/12/18/0/5:6 _:_ 837) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/18/0/5:6 _:_ 837) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/18/0/5:7 _:_ 238) : actual content file end build
+(2014/12/18/0/5:7 _:_ 238) : actual content file end build
+(2014/12/18/0/5:8 _:_ 278) : FTP InternetConnect successful ...
+(2014/12/18/0/5:8 _:_ 278) : FTP InternetConnect successful ...
+(2014/12/18/0/5:9 _:_ 802) : building php
+(2014/12/18/0/5:9 _:_ 802) : building php
+(2014/12/18/0/5:10 _:_ 379) : php end build
+(2014/12/18/0/5:10 _:_ 379) : php end build
+(2014/12/18/0/5:10 _:_ 382) : FTP connection and download operations...
+(2014/12/18/0/5:10 _:_ 382) : FTP connection and download operations...
+(2014/12/18/0/5:11 _:_ 37) : FTP InternetConnect successful ...
+(2014/12/18/0/5:11 _:_ 37) : FTP InternetConnect successful ...

@@ -1,0 +1,25 @@
+
+start new protocol
+
+(2014/12/16/19/53:1 _:_ 298) : -----------------------------------------------------
+(2014/12/16/19/53:1 _:_ 298) : -----------------------------------------------------
+(2014/12/16/19/53:1 _:_ 299) : Start Server
+(2014/12/16/19/53:1 _:_ 299) : Start Server
+(2014/12/16/19/53:2 _:_ 733) : VIEWSERVER NAME:
+(2014/12/16/19/53:2 _:_ 733) : VIEWSERVER NAME:
+(2014/12/16/19/53:2 _:_ 734) : testserver
+(2014/12/16/19/53:2 _:_ 734) : testserver
+(2014/12/16/19/53:2 _:_ 736) :  
+(2014/12/16/19/53:2 _:_ 736) :  
+(2014/12/16/19/53:2 _:_ 739) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/16/19/53:2 _:_ 739) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/16/19/53:2 _:_ 741) : builiding actual content file
+(2014/12/16/19/53:2 _:_ 741) : builiding actual content file
+(2014/12/16/19/53:2 _:_ 766) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/53:2 _:_ 766) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/53:2 _:_ 768) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/53:2 _:_ 768) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/53:2 _:_ 819) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/53:2 _:_ 819) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/53:3 _:_ 71) : actual content file end build
+(2014/12/16/19/53:3 _:_ 71) : actual content file end build

@@ -1,0 +1,25 @@
+
+start new protocol
+
+(2014/12/21/0/29:19 _:_ 735) : -----------------------------------------------------
+(2014/12/21/0/29:19 _:_ 735) : -----------------------------------------------------
+(2014/12/21/0/29:19 _:_ 735) : Start Server
+(2014/12/21/0/29:19 _:_ 735) : Start Server
+(2014/12/21/0/29:19 _:_ 735) : Version: 0.8888
+(2014/12/21/0/29:19 _:_ 735) : Version: 0.8888
+(2014/12/21/0/29:19 _:_ 735) : timer initialized
+(2014/12/21/0/29:19 _:_ 735) : timer initialized
+(2014/12/21/0/29:39 _:_ 733) : begin resetting network adapter
+(2014/12/21/0/29:39 _:_ 733) : begin resetting network adapter
+(2014/12/21/0/29:39 _:_ 901) : resetted network adapter
+(2014/12/21/0/29:39 _:_ 901) : resetted network adapter
+(2014/12/21/0/29:40 _:_ 0) : turning on wifi hotspot
+(2014/12/21/0/29:40 _:_ 0) : turning on wifi hotspot
+(2014/12/21/0/29:59 _:_ 733) : begin resetting network adapter
+(2014/12/21/0/29:59 _:_ 733) : begin resetting network adapter
+(2014/12/21/0/29:59 _:_ 901) : resetted network adapter
+(2014/12/21/0/29:59 _:_ 901) : resetted network adapter
+(2014/12/21/0/30:0 _:_ 0) : turning on wifi hotspot
+(2014/12/21/0/30:0 _:_ 0) : turning on wifi hotspot
+(2014/12/21/0/30:4 _:_ 505) : end of program -> end of protocol *****************************
+(2014/12/21/0/30:4 _:_ 505) : end of program -> end of protocol *****************************

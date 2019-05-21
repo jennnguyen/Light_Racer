@@ -1,0 +1,43 @@
+
+start new protocol
+
+(2014/12/16/20/2:59 _:_ 851) : -----------------------------------------------------
+(2014/12/16/20/2:59 _:_ 851) : -----------------------------------------------------
+(2014/12/16/20/2:59 _:_ 852) : Start Server
+(2014/12/16/20/2:59 _:_ 852) : Start Server
+(2014/12/16/20/3:1 _:_ 639) : VIEWSERVER NAME:
+(2014/12/16/20/3:1 _:_ 639) : VIEWSERVER NAME:
+(2014/12/16/20/3:1 _:_ 642) : testserver
+(2014/12/16/20/3:1 _:_ 642) : testserver
+(2014/12/16/20/3:1 _:_ 643) :  
+(2014/12/16/20/3:1 _:_ 643) :  
+(2014/12/16/20/3:1 _:_ 645) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/16/20/3:1 _:_ 645) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/16/20/3:1 _:_ 647) : builiding actual content file
+(2014/12/16/20/3:1 _:_ 647) : builiding actual content file
+(2014/12/16/20/3:1 _:_ 672) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/20/3:1 _:_ 672) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/20/3:1 _:_ 674) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/20/3:1 _:_ 674) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/20/3:1 _:_ 723) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/20/3:1 _:_ 723) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/20/3:1 _:_ 971) : actual content file end build
+(2014/12/16/20/3:1 _:_ 971) : actual content file end build
+(2014/12/16/20/3:2 _:_ 450) : FTP InternetConnect successful ...
+(2014/12/16/20/3:2 _:_ 450) : FTP InternetConnect successful ...
+(2014/12/16/20/3:2 _:_ 950) : building php
+(2014/12/16/20/3:2 _:_ 950) : building php
+(2014/12/16/20/3:3 _:_ 393) : php end build
+(2014/12/16/20/3:3 _:_ 393) : php end build
+(2014/12/16/20/3:3 _:_ 395) : FTP connection and download operations...
+(2014/12/16/20/3:3 _:_ 395) : FTP connection and download operations...
+(2014/12/16/20/3:3 _:_ 887) : FTP InternetConnect successful ...
+(2014/12/16/20/3:3 _:_ 887) : FTP InternetConnect successful ...
+(2014/12/16/20/3:5 _:_ 66) : FTP InternetConnect successful ...
+(2014/12/16/20/3:5 _:_ 66) : FTP InternetConnect successful ...
+(2014/12/16/20/3:6 _:_ 149) : FTP InternetConnect successful ...
+(2014/12/16/20/3:6 _:_ 149) : FTP InternetConnect successful ...
+(2014/12/16/20/3:6 _:_ 157) : end half hour loop - - - - - - - - - - - - - - - -
+(2014/12/16/20/3:6 _:_ 157) : end half hour loop - - - - - - - - - - - - - - - -
+(2014/12/16/20/3:10 _:_ 206) : end of program -> end of protocol *****************************
+(2014/12/16/20/3:10 _:_ 206) : end of program -> end of protocol *****************************

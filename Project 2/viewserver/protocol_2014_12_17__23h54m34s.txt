@@ -1,0 +1,31 @@
+
+start new protocol
+
+(2014/12/16/20/36:0 _:_ 513) : -----------------------------------------------------
+(2014/12/16/20/36:0 _:_ 513) : -----------------------------------------------------
+(2014/12/16/20/36:0 _:_ 514) : Start Server
+(2014/12/16/20/36:0 _:_ 514) : Start Server
+(2014/12/16/20/36:3 _:_ 749) : VIEWSERVER NAME:
+(2014/12/16/20/36:3 _:_ 749) : VIEWSERVER NAME:
+(2014/12/16/20/36:3 _:_ 751) : testserver
+(2014/12/16/20/36:3 _:_ 751) : testserver
+(2014/12/16/20/36:3 _:_ 753) :  
+(2014/12/16/20/36:3 _:_ 753) :  
+(2014/12/16/20/36:3 _:_ 754) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/16/20/36:3 _:_ 754) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/16/20/36:3 _:_ 756) : builiding actual content file
+(2014/12/16/20/36:3 _:_ 756) : builiding actual content file
+(2014/12/16/20/36:3 _:_ 813) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/20/36:3 _:_ 813) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/20/36:4 _:_ 53) : actual content file end build
+(2014/12/16/20/36:4 _:_ 53) : actual content file end build
+(2014/12/16/20/36:4 _:_ 529) : FTP InternetConnect successful ...
+(2014/12/16/20/36:4 _:_ 529) : FTP InternetConnect successful ...
+(2014/12/16/20/36:5 _:_ 134) : building php
+(2014/12/16/20/36:5 _:_ 134) : building php
+(2014/12/16/20/36:5 _:_ 725) : php end build
+(2014/12/16/20/36:5 _:_ 725) : php end build
+(2014/12/16/20/36:5 _:_ 730) : end half hour loop - - - - - - - - - - - - - - - -
+(2014/12/16/20/36:5 _:_ 730) : end half hour loop - - - - - - - - - - - - - - - -
+(2014/12/16/20/36:7 _:_ 683) : end of program -> end of protocol *****************************
+(2014/12/16/20/36:7 _:_ 683) : end of program -> end of protocol *****************************

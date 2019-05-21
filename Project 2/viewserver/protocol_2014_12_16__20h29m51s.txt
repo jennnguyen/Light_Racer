@@ -1,0 +1,51 @@
+
+start new protocol
+
+(2014/12/16/20/27:58 _:_ 214) : -----------------------------------------------------
+(2014/12/16/20/27:58 _:_ 214) : -----------------------------------------------------
+(2014/12/16/20/27:58 _:_ 215) : Start Server
+(2014/12/16/20/27:58 _:_ 215) : Start Server
+(2014/12/16/20/28:4 _:_ 791) : VIEWSERVER NAME:
+(2014/12/16/20/28:4 _:_ 791) : VIEWSERVER NAME:
+(2014/12/16/20/28:4 _:_ 793) : testserver
+(2014/12/16/20/28:4 _:_ 793) : testserver
+(2014/12/16/20/28:4 _:_ 795) :  
+(2014/12/16/20/28:4 _:_ 795) :  
+(2014/12/16/20/28:4 _:_ 797) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/16/20/28:4 _:_ 797) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/16/20/28:4 _:_ 799) : builiding actual content file
+(2014/12/16/20/28:4 _:_ 799) : builiding actual content file
+(2014/12/16/20/28:4 _:_ 863) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/20/28:4 _:_ 863) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/20/28:5 _:_ 115) : actual content file end build
+(2014/12/16/20/28:5 _:_ 115) : actual content file end build
+(2014/12/16/20/28:5 _:_ 607) : FTP InternetConnect successful ...
+(2014/12/16/20/28:5 _:_ 607) : FTP InternetConnect successful ...
+(2014/12/16/20/28:6 _:_ 207) : building php
+(2014/12/16/20/28:6 _:_ 207) : building php
+(2014/12/16/20/28:6 _:_ 752) : php end build
+(2014/12/16/20/28:6 _:_ 752) : php end build
+(2014/12/16/20/28:6 _:_ 753) : FTP connection and download operations...
+(2014/12/16/20/28:6 _:_ 753) : FTP connection and download operations...
+(2014/12/16/20/28:7 _:_ 351) : FTP InternetConnect successful ...
+(2014/12/16/20/28:7 _:_ 351) : FTP InternetConnect successful ...
+(2014/12/16/20/28:8 _:_ 787) : FTP InternetConnect successful ...
+(2014/12/16/20/28:8 _:_ 787) : FTP InternetConnect successful ...
+(2014/12/16/20/28:9 _:_ 767) : FTP InternetConnect successful ...
+(2014/12/16/20/28:9 _:_ 767) : FTP InternetConnect successful ...
+(2014/12/16/20/28:10 _:_ 619) : File 'n_29112014_001.rar' auf Downloadliste hinzugefuegt
+(2014/12/16/20/28:10 _:_ 619) : File 'n_29112014_001.rar' auf Downloadliste hinzugefuegt
+(2014/12/16/20/28:11 _:_ 665) : File 'n_29112014_002.rar' auf Downloadliste hinzugefuegt
+(2014/12/16/20/28:11 _:_ 665) : File 'n_29112014_002.rar' auf Downloadliste hinzugefuegt
+(2014/12/16/20/28:12 _:_ 236) : FTP InternetConnect successful ...
+(2014/12/16/20/28:12 _:_ 236) : FTP InternetConnect successful ...
+(2014/12/16/20/28:20 _:_ 868) : Downloading: NEWS/n_29112014_001\n_29112014_001.rar
+(2014/12/16/20/28:20 _:_ 868) : Downloading: NEWS/n_29112014_001\n_29112014_001.rar
+(2014/12/16/20/28:27 _:_ 11) : datei 'n_29112014_001.rar' erfolreich nach 5 sekunden runtergeladen
+(2014/12/16/20/28:27 _:_ 11) : datei 'n_29112014_001.rar' erfolreich nach 5 sekunden runtergeladen
+(2014/12/16/20/28:35 _:_ 268) : Downloading: NEWS/n_29112014_002\n_29112014_002.rar
+(2014/12/16/20/28:35 _:_ 268) : Downloading: NEWS/n_29112014_002\n_29112014_002.rar
+(2014/12/16/20/29:20 _:_ 648) : datei 'n_29112014_002.rar' erfolreich nach 39 sekunden runtergeladen
+(2014/12/16/20/29:20 _:_ 648) : datei 'n_29112014_002.rar' erfolreich nach 39 sekunden runtergeladen
+(2014/12/16/20/29:29 _:_ 266) : end half hour loop - - - - - - - - - - - - - - - -
+(2014/12/16/20/29:29 _:_ 266) : end half hour loop - - - - - - - - - - - - - - - -

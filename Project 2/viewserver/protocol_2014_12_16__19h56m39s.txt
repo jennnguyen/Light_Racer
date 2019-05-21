@@ -1,0 +1,27 @@
+
+start new protocol
+
+(2014/12/16/19/54:15 _:_ 481) : -----------------------------------------------------
+(2014/12/16/19/54:15 _:_ 481) : -----------------------------------------------------
+(2014/12/16/19/54:15 _:_ 482) : Start Server
+(2014/12/16/19/54:15 _:_ 482) : Start Server
+(2014/12/16/19/54:16 _:_ 889) : VIEWSERVER NAME:
+(2014/12/16/19/54:16 _:_ 889) : VIEWSERVER NAME:
+(2014/12/16/19/54:16 _:_ 890) : testserver
+(2014/12/16/19/54:16 _:_ 890) : testserver
+(2014/12/16/19/54:16 _:_ 892) :  
+(2014/12/16/19/54:16 _:_ 892) :  
+(2014/12/16/19/54:16 _:_ 894) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/16/19/54:16 _:_ 894) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/16/19/54:16 _:_ 895) : builiding actual content file
+(2014/12/16/19/54:16 _:_ 895) : builiding actual content file
+(2014/12/16/19/54:16 _:_ 920) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/54:16 _:_ 920) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/54:16 _:_ 922) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/54:16 _:_ 922) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/54:16 _:_ 974) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/54:16 _:_ 974) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/54:17 _:_ 230) : actual content file end build
+(2014/12/16/19/54:17 _:_ 230) : actual content file end build
+(2014/12/16/19/54:30 _:_ 569) : FTP InternetConnect successful ...
+(2014/12/16/19/54:30 _:_ 569) : FTP InternetConnect successful ...

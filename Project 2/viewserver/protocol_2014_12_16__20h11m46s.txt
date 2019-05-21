@@ -1,0 +1,37 @@
+
+start new protocol
+
+(2014/12/16/20/8:57 _:_ 866) : -----------------------------------------------------
+(2014/12/16/20/8:57 _:_ 866) : -----------------------------------------------------
+(2014/12/16/20/8:57 _:_ 867) : Start Server
+(2014/12/16/20/8:57 _:_ 867) : Start Server
+(2014/12/16/20/9:0 _:_ 428) : VIEWSERVER NAME:
+(2014/12/16/20/9:0 _:_ 428) : VIEWSERVER NAME:
+(2014/12/16/20/9:0 _:_ 430) : testserver
+(2014/12/16/20/9:0 _:_ 430) : testserver
+(2014/12/16/20/9:0 _:_ 432) :  
+(2014/12/16/20/9:0 _:_ 432) :  
+(2014/12/16/20/9:0 _:_ 434) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/16/20/9:0 _:_ 434) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/16/20/9:0 _:_ 436) : builiding actual content file
+(2014/12/16/20/9:0 _:_ 436) : builiding actual content file
+(2014/12/16/20/9:0 _:_ 498) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/20/9:0 _:_ 498) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/20/9:0 _:_ 736) : actual content file end build
+(2014/12/16/20/9:0 _:_ 736) : actual content file end build
+(2014/12/16/20/9:1 _:_ 208) : FTP InternetConnect successful ...
+(2014/12/16/20/9:1 _:_ 208) : FTP InternetConnect successful ...
+(2014/12/16/20/9:1 _:_ 729) : building php
+(2014/12/16/20/9:1 _:_ 729) : building php
+(2014/12/16/20/9:2 _:_ 119) : php end build
+(2014/12/16/20/9:2 _:_ 119) : php end build
+(2014/12/16/20/9:2 _:_ 121) : FTP connection and download operations...
+(2014/12/16/20/9:2 _:_ 121) : FTP connection and download operations...
+(2014/12/16/20/9:2 _:_ 616) : FTP InternetConnect successful ...
+(2014/12/16/20/9:2 _:_ 616) : FTP InternetConnect successful ...
+(2014/12/16/20/9:3 _:_ 768) : FTP InternetConnect successful ...
+(2014/12/16/20/9:3 _:_ 768) : FTP InternetConnect successful ...
+(2014/12/16/20/9:4 _:_ 748) : FTP InternetConnect successful ...
+(2014/12/16/20/9:4 _:_ 748) : FTP InternetConnect successful ...
+(2014/12/16/20/10:14 _:_ 480) : File 'n_29112014_001.rar' auf Downloadliste hinzugefuegt
+(2014/12/16/20/10:14 _:_ 480) : File 'n_29112014_001.rar' auf Downloadliste hinzugefuegt

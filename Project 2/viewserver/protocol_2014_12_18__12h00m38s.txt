@@ -1,0 +1,41 @@
+
+start new protocol
+
+(2014/12/18/11/58:8 _:_ 209) : -----------------------------------------------------
+(2014/12/18/11/58:8 _:_ 209) : -----------------------------------------------------
+(2014/12/18/11/58:8 _:_ 209) : Start Server
+(2014/12/18/11/58:8 _:_ 209) : Start Server
+(2014/12/18/11/58:25 _:_ 607) : VIEWSERVER NAME:
+(2014/12/18/11/58:25 _:_ 607) : VIEWSERVER NAME:
+(2014/12/18/11/58:25 _:_ 609) : testserver
+(2014/12/18/11/58:25 _:_ 609) : testserver
+(2014/12/18/11/58:25 _:_ 611) :  
+(2014/12/18/11/58:25 _:_ 611) :  
+(2014/12/18/11/58:25 _:_ 613) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/18/11/58:25 _:_ 613) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/18/11/58:25 _:_ 615) : builiding actual content file
+(2014/12/18/11/58:25 _:_ 615) : builiding actual content file
+(2014/12/18/11/58:25 _:_ 955) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/18/11/58:25 _:_ 955) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/18/11/58:26 _:_ 603) : actual content file end build
+(2014/12/18/11/58:26 _:_ 603) : actual content file end build
+(2014/12/18/11/58:27 _:_ 105) : FTP InternetConnect successful ...
+(2014/12/18/11/58:27 _:_ 105) : FTP InternetConnect successful ...
+(2014/12/18/11/58:27 _:_ 792) : building php
+(2014/12/18/11/58:27 _:_ 792) : building php
+(2014/12/18/11/58:28 _:_ 148) : php end build
+(2014/12/18/11/58:28 _:_ 148) : php end build
+(2014/12/18/11/58:28 _:_ 154) : FTP connection and download operations...
+(2014/12/18/11/58:28 _:_ 154) : FTP connection and download operations...
+(2014/12/18/11/58:28 _:_ 596) : FTP InternetConnect successful ...
+(2014/12/18/11/58:28 _:_ 596) : FTP InternetConnect successful ...
+(2014/12/18/11/58:29 _:_ 888) : FTP InternetConnect successful ...
+(2014/12/18/11/58:29 _:_ 888) : FTP InternetConnect successful ...
+(2014/12/18/11/58:31 _:_ 188) : FTP InternetConnect successful ...
+(2014/12/18/11/58:31 _:_ 188) : FTP InternetConnect successful ...
+(2014/12/18/11/58:31 _:_ 188) : end half hour loop - - - - - - - - - - - - - - - -
+(2014/12/18/11/58:31 _:_ 188) : end half hour loop - - - - - - - - - - - - - - - -
+(2014/12/18/11/58:32 _:_ 98) : resetted network adapter
+(2014/12/18/11/58:32 _:_ 98) : resetted network adapter
+(2014/12/18/11/58:33 _:_ 21) : end of program -> end of protocol *****************************
+(2014/12/18/11/58:33 _:_ 21) : end of program -> end of protocol *****************************

@@ -1,0 +1,35 @@
+
+start new protocol
+
+(2014/12/16/19/58:36 _:_ 21) : -----------------------------------------------------
+(2014/12/16/19/58:36 _:_ 21) : -----------------------------------------------------
+(2014/12/16/19/58:36 _:_ 22) : Start Server
+(2014/12/16/19/58:36 _:_ 22) : Start Server
+(2014/12/16/19/58:37 _:_ 326) : VIEWSERVER NAME:
+(2014/12/16/19/58:37 _:_ 326) : VIEWSERVER NAME:
+(2014/12/16/19/58:37 _:_ 328) : testserver
+(2014/12/16/19/58:37 _:_ 328) : testserver
+(2014/12/16/19/58:37 _:_ 329) :  
+(2014/12/16/19/58:37 _:_ 329) :  
+(2014/12/16/19/58:37 _:_ 332) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/16/19/58:37 _:_ 332) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/16/19/58:37 _:_ 333) : builiding actual content file
+(2014/12/16/19/58:37 _:_ 333) : builiding actual content file
+(2014/12/16/19/58:37 _:_ 359) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/58:37 _:_ 359) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/58:37 _:_ 360) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/58:37 _:_ 360) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/58:37 _:_ 412) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/58:37 _:_ 412) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/58:37 _:_ 669) : actual content file end build
+(2014/12/16/19/58:37 _:_ 669) : actual content file end build
+(2014/12/16/19/58:38 _:_ 140) : FTP InternetConnect successful ...
+(2014/12/16/19/58:38 _:_ 140) : FTP InternetConnect successful ...
+(2014/12/16/19/58:38 _:_ 613) : building php
+(2014/12/16/19/58:38 _:_ 613) : building php
+(2014/12/16/19/58:38 _:_ 966) : php end build
+(2014/12/16/19/58:38 _:_ 966) : php end build
+(2014/12/16/19/58:38 _:_ 967) : FTP connection and download operations...
+(2014/12/16/19/58:38 _:_ 967) : FTP connection and download operations...
+(2014/12/16/19/58:39 _:_ 420) : FTP InternetConnect successful ...
+(2014/12/16/19/58:39 _:_ 420) : FTP InternetConnect successful ...

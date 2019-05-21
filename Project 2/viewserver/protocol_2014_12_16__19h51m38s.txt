@@ -1,0 +1,29 @@
+
+start new protocol
+
+(2014/12/16/19/47:55 _:_ 623) : -----------------------------------------------------
+(2014/12/16/19/47:55 _:_ 623) : -----------------------------------------------------
+(2014/12/16/19/47:55 _:_ 624) : Start Server
+(2014/12/16/19/47:55 _:_ 624) : Start Server
+(2014/12/16/19/48:56 _:_ 610) : turning on wifi hotspot
+(2014/12/16/19/48:56 _:_ 610) : turning on wifi hotspot
+(2014/12/16/19/49:55 _:_ 788) : turning on wifi hotspot
+(2014/12/16/19/49:55 _:_ 788) : turning on wifi hotspot
+(2014/12/16/19/50:38 _:_ 913) : VIEWSERVER NAME:
+(2014/12/16/19/50:38 _:_ 913) : VIEWSERVER NAME:
+(2014/12/16/19/50:38 _:_ 916) : testserver
+(2014/12/16/19/50:38 _:_ 916) : testserver
+(2014/12/16/19/50:38 _:_ 919) :  
+(2014/12/16/19/50:38 _:_ 919) :  
+(2014/12/16/19/50:42 _:_ 465) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/16/19/50:42 _:_ 465) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/16/19/50:42 _:_ 985) : builiding actual content file
+(2014/12/16/19/50:42 _:_ 985) : builiding actual content file
+(2014/12/16/19/50:45 _:_ 523) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/50:45 _:_ 523) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/50:45 _:_ 578) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/50:45 _:_ 578) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/50:45 _:_ 753) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/50:45 _:_ 753) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/50:48 _:_ 41) : actual content file end build
+(2014/12/16/19/50:48 _:_ 41) : actual content file end build

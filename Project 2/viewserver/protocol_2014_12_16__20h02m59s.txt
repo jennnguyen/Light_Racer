@@ -1,0 +1,37 @@
+
+start new protocol
+
+(2014/12/16/19/59:31 _:_ 15) : -----------------------------------------------------
+(2014/12/16/19/59:31 _:_ 15) : -----------------------------------------------------
+(2014/12/16/19/59:31 _:_ 16) : Start Server
+(2014/12/16/19/59:31 _:_ 16) : Start Server
+(2014/12/16/19/59:32 _:_ 311) : VIEWSERVER NAME:
+(2014/12/16/19/59:32 _:_ 311) : VIEWSERVER NAME:
+(2014/12/16/19/59:32 _:_ 313) : testserver
+(2014/12/16/19/59:32 _:_ 313) : testserver
+(2014/12/16/19/59:32 _:_ 315) :  
+(2014/12/16/19/59:32 _:_ 315) :  
+(2014/12/16/19/59:32 _:_ 316) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/16/19/59:32 _:_ 316) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/16/19/59:32 _:_ 318) : builiding actual content file
+(2014/12/16/19/59:32 _:_ 318) : builiding actual content file
+(2014/12/16/19/59:32 _:_ 340) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/59:32 _:_ 340) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/59:32 _:_ 341) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/59:32 _:_ 341) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/59:32 _:_ 409) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/59:32 _:_ 409) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/19/59:32 _:_ 662) : actual content file end build
+(2014/12/16/19/59:32 _:_ 662) : actual content file end build
+(2014/12/16/19/59:33 _:_ 149) : FTP InternetConnect successful ...
+(2014/12/16/19/59:33 _:_ 149) : FTP InternetConnect successful ...
+(2014/12/16/19/59:33 _:_ 728) : building php
+(2014/12/16/19/59:33 _:_ 728) : building php
+(2014/12/16/19/59:34 _:_ 75) : php end build
+(2014/12/16/19/59:34 _:_ 75) : php end build
+(2014/12/16/19/59:34 _:_ 77) : FTP connection and download operations...
+(2014/12/16/19/59:34 _:_ 77) : FTP connection and download operations...
+(2014/12/16/19/59:34 _:_ 581) : FTP InternetConnect successful ...
+(2014/12/16/19/59:34 _:_ 581) : FTP InternetConnect successful ...
+(2014/12/16/20/0:23 _:_ 295) : FTP InternetConnect successful ...
+(2014/12/16/20/0:23 _:_ 295) : FTP InternetConnect successful ...

@@ -1,0 +1,43 @@
+
+start new protocol
+
+(2014/12/21/0/40:36 _:_ 96) : -----------------------------------------------------
+(2014/12/21/0/40:36 _:_ 96) : -----------------------------------------------------
+(2014/12/21/0/40:36 _:_ 96) : Start Server
+(2014/12/21/0/40:36 _:_ 96) : Start Server
+(2014/12/21/0/40:36 _:_ 96) : Version: 0.8888
+(2014/12/21/0/40:36 _:_ 96) : Version: 0.8888
+(2014/12/21/0/40:36 _:_ 96) : timer initialized
+(2014/12/21/0/40:36 _:_ 96) : timer initialized
+(2014/12/21/0/40:56 _:_ 93) : begin resetting network adapter
+(2014/12/21/0/40:56 _:_ 93) : begin resetting network adapter
+(2014/12/21/0/40:56 _:_ 265) : resetted network adapter
+(2014/12/21/0/40:56 _:_ 265) : resetted network adapter
+(2014/12/21/0/40:56 _:_ 350) : turning on wifi hotspot
+(2014/12/21/0/40:56 _:_ 350) : turning on wifi hotspot
+(2014/12/21/0/41:16 _:_ 93) : begin resetting network adapter
+(2014/12/21/0/41:16 _:_ 93) : begin resetting network adapter
+(2014/12/21/0/41:16 _:_ 250) : resetted network adapter
+(2014/12/21/0/41:16 _:_ 250) : resetted network adapter
+(2014/12/21/0/41:16 _:_ 351) : turning on wifi hotspot
+(2014/12/21/0/41:16 _:_ 351) : turning on wifi hotspot
+(2014/12/21/0/41:36 _:_ 97) : begin resetting network adapter
+(2014/12/21/0/41:36 _:_ 97) : begin resetting network adapter
+(2014/12/21/0/41:36 _:_ 281) : resetted network adapter
+(2014/12/21/0/41:36 _:_ 281) : resetted network adapter
+(2014/12/21/0/41:36 _:_ 365) : turning on wifi hotspot
+(2014/12/21/0/41:36 _:_ 365) : turning on wifi hotspot
+(2014/12/21/0/41:56 _:_ 94) : begin resetting network adapter
+(2014/12/21/0/41:56 _:_ 94) : begin resetting network adapter
+(2014/12/21/0/41:56 _:_ 264) : resetted network adapter
+(2014/12/21/0/41:56 _:_ 264) : resetted network adapter
+(2014/12/21/0/41:56 _:_ 348) : turning on wifi hotspot
+(2014/12/21/0/41:56 _:_ 348) : turning on wifi hotspot
+(2014/12/21/0/42:16 _:_ 94) : begin resetting network adapter
+(2014/12/21/0/42:16 _:_ 94) : begin resetting network adapter
+(2014/12/21/0/42:16 _:_ 296) : resetted network adapter
+(2014/12/21/0/42:16 _:_ 296) : resetted network adapter
+(2014/12/21/0/42:16 _:_ 382) : turning on wifi hotspot
+(2014/12/21/0/42:16 _:_ 382) : turning on wifi hotspot
+(2014/12/21/0/42:31 _:_ 435) : end of program -> end of protocol *****************************
+(2014/12/21/0/42:31 _:_ 435) : end of program -> end of protocol *****************************

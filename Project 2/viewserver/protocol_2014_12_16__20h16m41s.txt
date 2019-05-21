@@ -1,0 +1,49 @@
+
+start new protocol
+
+(2014/12/16/20/14:55 _:_ 977) : -----------------------------------------------------
+(2014/12/16/20/14:55 _:_ 977) : -----------------------------------------------------
+(2014/12/16/20/14:55 _:_ 978) : Start Server
+(2014/12/16/20/14:55 _:_ 978) : Start Server
+(2014/12/16/20/14:57 _:_ 522) : VIEWSERVER NAME:
+(2014/12/16/20/14:57 _:_ 522) : VIEWSERVER NAME:
+(2014/12/16/20/14:57 _:_ 524) : testserver
+(2014/12/16/20/14:57 _:_ 524) : testserver
+(2014/12/16/20/14:57 _:_ 526) :  
+(2014/12/16/20/14:57 _:_ 526) :  
+(2014/12/16/20/14:57 _:_ 529) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/16/20/14:57 _:_ 529) : start half hour loop - - - - - - - - - - - - - 
+(2014/12/16/20/14:57 _:_ 531) : builiding actual content file
+(2014/12/16/20/14:57 _:_ 531) : builiding actual content file
+(2014/12/16/20/14:57 _:_ 589) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/20/14:57 _:_ 589) : ERROR: konnte info.txt nicht oeffnen
+(2014/12/16/20/14:57 _:_ 830) : actual content file end build
+(2014/12/16/20/14:57 _:_ 830) : actual content file end build
+(2014/12/16/20/14:58 _:_ 327) : FTP InternetConnect successful ...
+(2014/12/16/20/14:58 _:_ 327) : FTP InternetConnect successful ...
+(2014/12/16/20/14:58 _:_ 808) : building php
+(2014/12/16/20/14:58 _:_ 808) : building php
+(2014/12/16/20/14:59 _:_ 155) : php end build
+(2014/12/16/20/14:59 _:_ 155) : php end build
+(2014/12/16/20/14:59 _:_ 156) : FTP connection and download operations...
+(2014/12/16/20/14:59 _:_ 156) : FTP connection and download operations...
+(2014/12/16/20/14:59 _:_ 657) : FTP InternetConnect successful ...
+(2014/12/16/20/14:59 _:_ 657) : FTP InternetConnect successful ...
+(2014/12/16/20/15:0 _:_ 878) : FTP InternetConnect successful ...
+(2014/12/16/20/15:0 _:_ 878) : FTP InternetConnect successful ...
+(2014/12/16/20/15:1 _:_ 843) : FTP InternetConnect successful ...
+(2014/12/16/20/15:1 _:_ 843) : FTP InternetConnect successful ...
+(2014/12/16/20/15:2 _:_ 549) : File 'n_29112014_001.rar' auf Downloadliste hinzugefuegt
+(2014/12/16/20/15:2 _:_ 549) : File 'n_29112014_001.rar' auf Downloadliste hinzugefuegt
+(2014/12/16/20/15:3 _:_ 370) : File 'n_29112014_002.rar' auf Downloadliste hinzugefuegt
+(2014/12/16/20/15:3 _:_ 370) : File 'n_29112014_002.rar' auf Downloadliste hinzugefuegt
+(2014/12/16/20/15:3 _:_ 935) : FTP InternetConnect successful ...
+(2014/12/16/20/15:3 _:_ 935) : FTP InternetConnect successful ...
+(2014/12/16/20/15:3 _:_ 937) : Downloading: NEWS/n_29112014_001\n_29112014_001.rar
+(2014/12/16/20/15:3 _:_ 937) : Downloading: NEWS/n_29112014_001\n_29112014_001.rar
+(2014/12/16/20/15:5 _:_ 236) : datei 'n_29112014_001.rar' erfolreich nach 1 sekunden runtergeladen
+(2014/12/16/20/15:5 _:_ 236) : datei 'n_29112014_001.rar' erfolreich nach 1 sekunden runtergeladen
+(2014/12/16/20/15:24 _:_ 38) : Downloading: NEWS/n_29112014_002\n_29112014_002.rar
+(2014/12/16/20/15:24 _:_ 38) : Downloading: NEWS/n_29112014_002\n_29112014_002.rar
+(2014/12/16/20/15:27 _:_ 71) : ERROR: datei 'n_29112014_002.rar' konnte nicht gedowloaded werden
+(2014/12/16/20/15:27 _:_ 71) : ERROR: datei 'n_29112014_002.rar' konnte nicht gedowloaded werden
